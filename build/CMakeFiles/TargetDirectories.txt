@@ -1,0 +1,4 @@
+/home/shane/Cstuff/build/CMakeFiles/rebuild_cache.dir
+/home/shane/Cstuff/build/CMakeFiles/edit_cache.dir
+/home/shane/Cstuff/build/CMakeFiles/macro2.dir
+/home/shane/Cstuff/build/CMakeFiles/macro.dir
